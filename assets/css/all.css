@@ -2509,7 +2509,7 @@ readers do not read off random characters that represent icons */
 .fa-contact-card::before {
   content: "\f2bb"; }
 
-/* .fa-vcard::before {
+.fa-vcard::before {
   content: "\f2bb"; }
 
 .fa-scale-unbalanced-flip::before {
@@ -2543,7 +2543,7 @@ readers do not read off random characters that represent icons */
   content: "\f5c8"; }
 
 .fa-money-bills::before {
-  content: "\e1f3"; } */
+  content: "\e1f3"; }
 
 .fa-smog::before {
   content: "\f75f"; }
